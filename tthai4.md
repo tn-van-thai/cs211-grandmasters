@@ -1,4 +1,4 @@
-Tuan Van Thai
-Computer Science
-Competitive Programming
+Tuan Van Thai \
+Computer Science \
+Competitive Programming \
 Competitive Programming
