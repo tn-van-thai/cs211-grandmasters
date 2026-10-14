@@ -1,11 +1,12 @@
-Profile: Ibrahim Hanif Ceker
-NetID: ihceke
-Major: Computer Science
-Favorite CS topic: Graph Theory
-Challenging topic: Geometry Algorithms
-Link to the question article: https://www.geeksforgeeks.org/dsa/largest-sum-contiguous-subarray/
+Profile: Ibrahim Hanif Ceker \
+NetID: ihceke \
+Major: Computer Science \
+Favorite CS topic: Graph Theory \
+Challenging topic: Geometry Algorithms \
+Link to the question article: https://www.geeksforgeeks.org/dsa/largest-sum-contiguous-subarray/ \
 My solution:
 
+```
 #include <stdio.h>
 #include <limits.h>
 
@@ -39,3 +40,4 @@ int main() {
     }
     printf("%d\n", maxSubarraySum(arr, n));
 }
+```
