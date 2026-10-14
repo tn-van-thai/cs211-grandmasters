@@ -6,7 +6,7 @@ Challenging topic: Geometry Algorithms \
 Link to the question article: https://www.geeksforgeeks.org/dsa/largest-sum-contiguous-subarray/ \
 My solution:
 
-```
+``` cpp
 #include <stdio.h>
 #include <limits.h>
 
